@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216563461281",
+    "project_id": "shopbag-7720d",
+    "storage_bucket": "shopbag-7720d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216563461281:android:9636cca1f584e198b114e0",
+        "android_client_info": {
+          "package_name": "com.nguyenthinhatphuong.pu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OmfIdo1mxkse0KaJ0WIG14Loi4Kh9ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
